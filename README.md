@@ -2,7 +2,8 @@
 ## JavaScript Developer/Frontend Developer(React)/ MERN STACK.
 - 🌱 I’m currently learning ...Adavnce NodeJs 🤣
 - ⚡ Love to Traveling 🥰
--->
+
+<br/>
 ### Connect with me:
 Email: nahidkishore99@gmail.com <br/>
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
