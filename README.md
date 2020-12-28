@@ -30,6 +30,9 @@
 <br/>
 <br/>
 <img width="550px" alt="nahidkishore Github Stats"  src="https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true"/>
-![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550)](https://github.com/nahidkishore)
+[webdevplaylist]:https://ema-jhon-simple-841a8.web.app/
+[jsplaylist]: https://shahadat-rgb.github.io/hard-rock-master/
+[cssplaylist]: https://shahadat-rgb.github.io/E-School-learning/
+[reactplaylist]:https://fir-auth-assignment.firebaseapp.com/
 
 
