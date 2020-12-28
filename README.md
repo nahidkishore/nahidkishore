@@ -32,6 +32,4 @@
 <img width="550px" alt="shahadat-hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shahadat-rgb&show_icons=true"/>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-rgb&card_width=550)](https://github.com/nahidkishore)
 
-[website]: https://nahidul.netlify.app/  
-[linkedin]:https://www.linkedin.com/in/nahid099/
 
