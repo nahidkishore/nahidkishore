@@ -1,4 +1,4 @@
-### Hi there, I am Nahidul Islam 👋
+### Hi, I am Nahidul Islam 👋
 ## JavaScript Developer/Frontend Developer(React)/ MERN STACK.
 - 🌱 I’m currently learning ...Adavnce NodeJs 🤣
 - ⚡ Love to Traveling 🥰
