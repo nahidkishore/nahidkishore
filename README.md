@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ... Love to travel, on vacation 🥰
 -->
 ### Connect with me:
-Email: nahidkishore99@gmail.com
+Email: nahidkishore99@gmail.com <br/>
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/>)
