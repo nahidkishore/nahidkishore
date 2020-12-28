@@ -1,16 +1,13 @@
 ### Hi there, I am Nahidul Islam 👋
 ## JavaScript Developer/Frontend Developer(React)/ MERN STACK.
 - 🌱 I’m currently learning ...Adavnce NodeJs 🤣
-- ❤️ Technology Is My Love 😍
-- 😎 Programming Is My Passion🙃
-- ⚔  Keyboard Is MY Weapon😏
-- 🥰 Perfection Is My Habit🌍
-- ⚡ Fun fact: ... Love to travel, on vacation 🥰
+- ⚡ Love to Traveling 🥰
 -->
 ### Connect with me:
 Email: nahidkishore99@gmail.com <br/>
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/>)
+<br/>
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
