@@ -1,6 +1,6 @@
 ### Hi, I am Nahidul Islam 👋
 ## JavaScript Developer/Frontend Developer(React)/ MERN STACK.
-- I’m currently learning ... NodeJs <br/>
+- Currently learning ... NodeJs <br/>
 - <strong>Contact with me----  </strong> nahidkishore99@gmail.com
 - <strong>portfolio site </strong> https://nahidul.netlify.app/
 -  Love to Traveling 
