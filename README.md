@@ -1,9 +1,9 @@
 ### Hi, I am Nahidul Islam 👋
 ## JavaScript Developer/Frontend Developer(React)/ MERN STACK.
-- Currently learning ... NodeJs <br/>
-- <strong>Contact with me----  </strong> nahidkishore99@gmail.com
-- <strong>portfolio site </strong> https://nahidul.netlify.app/
--  Love to Traveling 
+- Currently learning ... MERN Stack <br/>
+- <strong>Reach out me----  </strong> nahidkishore99@gmail.com
+- <strong>Portfolio site </strong> https://nahidul.netlify.app/
+-  Love to Traveling
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/>)
@@ -34,3 +34,4 @@
 <span align=center>
 ![GitHub stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nahidkishore&show_icons=true&width=640&height=150&skills=Javascript,Html,Css,PHP,Python)
  </span>
+
