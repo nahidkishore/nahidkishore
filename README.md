@@ -1,5 +1,5 @@
 ### Hi, I am Nahidul Islam 👋
-## JavaScript Developer/Frontend Developer(React)/ MERN STACK.
+## JavaScript Developer/Frontend Developer(React)/ MERN Stack .
 - Currently learning ... MERN Stack <br/>
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
