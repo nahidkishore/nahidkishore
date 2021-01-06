@@ -29,3 +29,8 @@
 <br/>
 <img width="550px" alt="nahidkishore Github Stats"  src="https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true"/>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
+[![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
+<span align=center>
+![GitHub stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nahidkishore&show_icons=true&width=640&height=150&skills=Javascript,Html,Css,PHP,Python)
+ </span>
