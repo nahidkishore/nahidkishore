@@ -1,6 +1,7 @@
 ### Hi, I am Nahidul Islam 👋
 ## JavaScript Developer/Frontend Developer(React)/ MERN Stack .
 - Currently learning ... MERN Stack <br/>
+- I am looking for job...
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
 -  Love to Traveling
@@ -27,11 +28,19 @@
 <br />
 <br/>
 <br/>
-<img width="550px" alt="nahidkishore Github Stats"  src="https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true"/>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
+![nahidkishore's github stats](https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true&theme=radical)
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical)](https://github.com/nahidkishore)
+
+
+[website]: https://nahidul.netlify.app/
+[linkedin]: https://www.linkedin.com/in/nahid099/
+[webdevplaylist]: https://www.nahidkishore.com
+[jsplaylist]: https://www.nahidkishore.com
+[cssplaylist]: https://www.nahidkishore.com
+[reactplaylist]: https://www.nahidkishore.com
+
+
+![Github](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
 [![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
-<span align=center>
-![GitHub stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nahidkishore&show_icons=true&width=640&height=150&skills=Javascript,Html,Css,PHP,Python)
- </span>
-
