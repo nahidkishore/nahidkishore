@@ -5,6 +5,7 @@
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
 -  Love to Traveling
+- Current Project --- Full stack Ecommerce Project 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
@@ -32,7 +33,7 @@
 <br/>
 <br/>
 
-![nahidkishore's github stats](https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true&theme=cobalt)
+[![nahidkishore's github stats](https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true&theme=cobalt)](https://github.com/nahidkishore/github-readme-stats)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical)](https://github.com/nahidkishore)
 
