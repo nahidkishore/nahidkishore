@@ -1,7 +1,7 @@
 ### I am Nahidul Islam
 ## JavaScript Developer
-- <h2> Currently learning ... React Native </h2>
-- <h3><b> looking for job... </b></h1>
+- <h4> Currently learning ... React Native </h4>
+- <h6><b> looking for job... </b></h6>
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
 -  Love to Traveling, sleeping
