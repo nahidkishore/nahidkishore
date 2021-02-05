@@ -1,11 +1,10 @@
 ### Hi, I am Nahidul Islam 👋
-## JavaScript Developer/Frontend Developer(React)/ MERN Stack .
-- Currently learning ... MERN Stack <br/>
+## JavaScript Developer.
+- Currently learning ... React Native <br/>
 - <h3><b> looking for job... </b></h1>
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
--  Love to Traveling
-- Current Project --- Full stack Ecommerce Project 
+-  Love to Traveling, sleeping
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
