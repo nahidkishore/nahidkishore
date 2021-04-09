@@ -1,6 +1,5 @@
 ### I am Nahidul Islam
-- <h4>Currently learning ... React Native, Next JS</h4>
-
+-- Currently Working as a JavaScript Developer at SEBPO.
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
 -  Love to Traveling, sleeping
