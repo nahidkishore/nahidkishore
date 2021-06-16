@@ -2,7 +2,7 @@
 -- Currently working as a JavaScript Developer at SEBPO.
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
--  Love to Play Cricket, Travel, sleeping
+-  Love to Play Cricket, Travel, Sleeping
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
