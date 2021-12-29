@@ -44,4 +44,4 @@
 
 
 ![Github](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
-
+[![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
