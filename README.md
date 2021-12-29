@@ -32,7 +32,7 @@
 
 [![nahidkishore's github stats](https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true&theme=cobalt)](https://github.com/nahidkishore/github-readme-stats)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical)](https://github.com/nahidkishore)
+
 
 
 [website]: https://nahidul.netlify.app/
