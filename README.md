@@ -30,18 +30,16 @@
 <br/>
 <br/>
 
+[![nahidkishore's github contrubution](https://github-readme-streak-stats.herokuapp.com/?user=nahidkishore&show_icons=true&theme=synthwave)](https://github.com/nahidkishore)
+
+
 [![nahidkishore's github stats](https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true&theme=cobalt)](https://github.com/nahidkishore/github-readme-stats)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical)](https://github.com/nahidkishore)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=8)](https://github.com/nahidkishore)
 
-
-[website]: https://nahidul.netlify.app/
-[linkedin]: https://www.linkedin.com/in/nahid099/
-[webdevplaylist]: https://www.nahidkishore.com
-[jsplaylist]: https://www.nahidkishore.com
-[cssplaylist]: https://www.nahidkishore.com
-[reactplaylist]: https://www.nahidkishore.com
 
 
 ![Github](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
 [![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
+
+
