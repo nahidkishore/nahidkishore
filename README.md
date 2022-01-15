@@ -1,5 +1,5 @@
 ### I am Nahidul Islam
--- JavaScript Developer at SEBPO.
+-- Currently working as JavaScript Developer at SEBPO
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
 -  Love to Play Cricket, Travel, Sleeping
