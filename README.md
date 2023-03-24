@@ -1,32 +1,33 @@
 ### I am Nahidul Islam
 DevOps enthusiast || AWS || Docker || JS Developer  <br>
--- Currently working as JavaScript Developer at SEBPO
+* I currently work at SEBPO as a JavaScript Developer
+* I graduated in Computer Science and Engineering from East West University
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
--  Love to Play Cricket, Travel, Sleeping
+* My hobbies are reading books, play cricket and Travel
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
 [![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://nahidul.netlify.app/)
 <br/>
-### Languages and Tools:
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="expressjs" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" />
-<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+### I am experienced in the following Languages and Technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,aws,docker,kubernetes,git,ansible,jenkins,redux,tailwind,materialui,mongodb,mysql&perline=8&theme=dark)](https://skillicons.dev)
 
-<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/750/1*T0a-QUNewZDsyx6Bkinfew.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />
-<img align="left" alt="netlify" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEAt7-u6GJMlw/company-logo_200_200/0?e=2159024400&v=beta&t=4CYxl7atZ0Yn9lJko6w02yIywYQiLr9hrQcH3cF4GDI" />
+[![My Skills](https://skillicons.dev/icons?i=c,py,firebase,vscode,powershell,bash,postman,netlify,heroku,gitlab,nginx&perline=8&theme=dark)](https://skillicons.dev)
+ 
+ 
+ <!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,aws,docker,kubernetes,git,ansible,jenkins,redux,tailwind,materialui,mongodb,mysql &theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,firebase,git,vscode,powershell,bash,postman,netlify,heroku,gitlab,nginx," />
+  </a>
+</p>
+-->
 <br />
 <br/>
 <br/>
