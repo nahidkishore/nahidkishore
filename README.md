@@ -1,5 +1,5 @@
 ### I am Nahidul Islam
-DevOps enthusiast || AWS || Docker ||  <br>
+DevOps enthusiast || AWS || Docker || JS Developer  <br>
 -- Currently working as JavaScript Developer at SEBPO
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - <strong>Portfolio site </strong> https://nahidul.netlify.app/
