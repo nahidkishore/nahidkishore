@@ -3,7 +3,7 @@ DevOps enthusiast || AWS || Docker || JS Developer  <br>
 * I currently work at SEBPO as a JavaScript Developer
 * I graduated in Computer Science and Engineering from East West University
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
-- <strong>Portfolio site </strong> <a target="_blank" href="https://nahidul.netlify.app/"> https://nahidul.netlify.app/ </a>
+- <p> <strong>Portfolio site </strong> <a href="https://nahidul.netlify.app/" target="_blank"> https://nahidul.netlify.app/ </a></p>
 * My hobbies are reading books, play cricket and Travel
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
