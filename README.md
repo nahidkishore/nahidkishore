@@ -1,9 +1,9 @@
-### I am Nahidul Islam
+### <h1 align="center">Hi 👋, I am Nahidul Islam </h1>
 DevOps enthusiast || AWS || Docker || JS Developer  <br>
 * I currently work at SEBPO as a JavaScript Developer
 * I graduated in Computer Science and Engineering from East West University
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
-- <strong>Portfolio site </strong> https://nahidul.netlify.app/
+- <strong>Portfolio site </strong> <a target="_blank" href="https://nahidul.netlify.app/"> https://nahidul.netlify.app/ </a>
 * My hobbies are reading books, play cricket and Travel
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
