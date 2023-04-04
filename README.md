@@ -11,14 +11,14 @@ DevOps enthusiast || AWS || Docker || JS Developer  <br>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/nahid099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahid099/" height="30" width="40" /></a>
- 
- 
- 
+<a href="https://linkedin.com/in/nahid099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahid099/" height="30" width="40" /></a> <a href="https://www.facebook.com/nahid.kishore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="nahid.kishore/" height="30" width="40" /></a> <a href="https://nahidul.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30" width="40" /></a>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
+ 
+ </p>
+
+<!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
-[![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://nahidul.netlify.app/)
+[![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://nahidul.netlify.app/) -->
 <br/>
 ### I am experienced in the following Languages and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,aws,docker,kubernetes,git,ansible,jenkins,redux,tailwind,materialui,mongodb,mysql&perline=8&theme=dark)](https://skillicons.dev)
