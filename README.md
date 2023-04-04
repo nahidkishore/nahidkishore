@@ -8,6 +8,14 @@ DevOps enthusiast || AWS || Docker || JS Developer  <br>
 - <p> <strong>Portfolio site </strong> <a href="https://nahidul.netlify.app/" target="_blank"> https://nahidul.netlify.app/ </a></p>
 * My hobbies are reading books, play cricket and Travel
 ### Connect with me:
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nahid099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahid099/" height="30" width="40" /></a>
+ 
+ 
+ 
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
 [![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://nahidul.netlify.app/)
