@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I am Nahidul Islam </h1>
-DevOps enthusiast || AWS || Docker || JS Developer  <br>
+DevOps enthusiast || AWS || Kubernetes || Docker || JS Developer  <br>
 * I currently work at SEBPO as a JavaScript Developer
 * I graduated in Computer Science and Engineering from East West University
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
