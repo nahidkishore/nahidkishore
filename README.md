@@ -48,7 +48,7 @@ DevOps enthusiast || AWS || Kubernetes || Docker || JS Developer  <br>
 
 [![nahidkishore's github stats](https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true&theme=cobalt)](https://github.com/nahidkishore/github-readme-stats)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=20)](https://github.com/nahidkishore)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=30)](https://github.com/nahidkishore)
 
 
 
