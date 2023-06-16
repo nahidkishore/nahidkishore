@@ -22,9 +22,9 @@ DevOps enthusiast || AWS || Kubernetes || Docker || JS Developer  <br>
 <br/>
 
 ### I am experienced in the following Languages and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,aws,docker,kubernetes,git,ansible,jenkins,redux,tailwind,materialui,mongodb,mysql&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,linux,grafana,prometheus,git,gitlab,github,nginx,powershell,bash,vscode,postman&perline=8&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,firebase,vscode,powershell,bash,postman,netlify,heroku,gitlab,nginx&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,c,py,mongodb,mysql,firebase,netlify,heroku,redux,bootstrap,tailwind,materialui&perline=8&theme=dark)](https://skillicons.dev)
  
  
  <!--
