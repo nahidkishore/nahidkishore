@@ -18,7 +18,12 @@ If you have any openings or know of relevant positions in the DevOps field, I wo
 I'm excited about the possibilities that lie ahead and look forward to connecting with like-minded professionals like you!
 
 ##
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Hashnode](https://img.shields.io/badge/-Hashnode-purple?style=for-the-badge&logo=hashnode)](https://hashnode.com/@nahid0002/) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/){:target="_blank"}
+
+
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com){:target="_blank"} [![Hashnode](https://img.shields.io/badge/-Hashnode-purple?style=for-the-badge&logo=hashnode)](https://hashnode.com/@nahid0002/){:target="_blank"} [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99){:target="_blank"} [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/){:target="_blank"}
+
 
 
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
