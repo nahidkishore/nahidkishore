@@ -35,7 +35,7 @@ I'm excited about the possibilities that lie ahead and look forward to connectin
 [![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://nahidul.netlify.app/) -->
 <br/>
 
-### I am experienced in the following Languages and Technologies:
+## I am experienced in the following Languages and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,linux,grafana,prometheus,git,gitlab,github,nginx,powershell,bash,vscode,postman&perline=8&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,c,py,mongodb,mysql,firebase,netlify,heroku,redux,bootstrap,tailwind,materialui&perline=8&theme=dark)](https://skillicons.dev)
