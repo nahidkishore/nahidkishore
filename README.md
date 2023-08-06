@@ -4,11 +4,11 @@ About Me: <br>
 💼 Currently working as a JavaScript Developer at SEBPO. <br>
 🎓 Graduated in Computer Science and Engineering from East West University.
 
-## Seeking New Opportunities:
-I am actively seeking a DevOps role and am excited to take on new challenges in this domain. With my strong foundation in development and a keen interest in operations, I am eager to contribute my expertise to a dynamic DevOps environment.
+## Seeking New Opportunities in DevOps / Cloud:
+I am actively seeking a DevOps role and am excited to take on new challenges in this dynamic field. My journey as a JavaScript Developer has provided me with a strong foundation in software development, and I am now eager to apply my skills to drive efficient and scalable infrastructure solutions as a DevOps professional.
 
 ##
-💻 Hands-on experience in Docker, Kubernetes (K8s), CI/CD, Jenkins, AWS, and DevOps practices. <br>
+💻 Hands-on experience in AWS, Docker, Kubernetes (K8s),Terraform, CI/CD, Jenkins, Ansible, Linux, Grafana and DevOps practices. <br>
 🚀 Project involvement in driving efficient and scalable infrastructure solutions. <br>
 📚 A continuous learner, always exploring new technologies and best practices.
 <br>
@@ -18,30 +18,17 @@ If you have any openings or know of relevant positions in the DevOps field, I wo
 I'm excited about the possibilities that lie ahead and look forward to connecting with like-minded professionals like you!
 
 ##
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/){:target="_blank"}
-
-<a href="https://www.linkedin.com/in/nahid099/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Hashnode](https://img.shields.io/badge/-Hashnode-purple?style=for-the-badge&logo=hashnode)](https://hashnode.com/@nahid0002/) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/)
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com){:target="_blank"} [![Hashnode](https://img.shields.io/badge/-Hashnode-purple?style=for-the-badge&logo=hashnode)](https://hashnode.com/@nahid0002/){:target="_blank"} [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99){:target="_blank"} [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/){:target="_blank"}
+- Gmail: nahidkishore99@gmail.com
+- Linkedin: https://www.linkedin.com/in/nahid099/
+- Hashnode blog account: https://hashnode.com/@nahid0002
+- Medium blog account: https://medium.com/@nahidkishore99
+- Portfolio site: https://nahidul.netlify.app/
 
 
-
-- <strong>Reach out me----  </strong> nahidkishore99@gmail.com
-- Hashnode blog account -- https://hashnode.com/@nahid0002
-- Medium blog account--- https://medium.com/@nahidkishore99
-- <p> <strong>Portfolio site </strong> <a href="https://nahidul.netlify.app/" target="_blank"> https://nahidul.netlify.app/ </a></p>
-* My hobbies are reading books, play cricket and Travel
-### Connect with me:
-
-<p align="center">
-
-<a href="https://linkedin.com/in/nahid099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahid099/" height="30" width="40" /></a> <a href="https://www.facebook.com/nahid.kishore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="nahid.kishore/" height="30" width="40" /></a> <a href="https://nahidul.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30" width="40" /></a>
-
- 
- </p>
 
 <!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
