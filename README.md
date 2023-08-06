@@ -1,7 +1,26 @@
-### <h1 align="center">Hi 👋, I am Nahidul Islam </h1>
-DevOps enthusiast || AWS || Kubernetes || Docker || JS Developer  <br>
-* I currently work at SEBPO as a JavaScript Developer
-* I graduated in Computer Science and Engineering from East West University
+### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>a JavaScript Developer with a Passion for DevOps! </h1>
+DevOps enthusiast || AWS || Kubernetes || Docker || JS Developer  <br> <br>
+About Me: <br>
+💼 Currently working as a JavaScript Developer at SEBPO. <br>
+🎓 Graduated in Computer Science and Engineering from East West University.
+
+## Seeking New Opportunities:
+I am actively seeking a DevOps role and am excited to take on new challenges in this domain. With my strong foundation in development and a keen interest in operations, I am eager to contribute my expertise to a dynamic DevOps environment.
+
+##
+💻 Hands-on experience in Docker, Kubernetes (K8s), CI/CD, Jenkins, AWS, and DevOps practices. <br>
+🚀 Project involvement in driving efficient and scalable infrastructure solutions. <br>
+📚 A continuous learner, always exploring new technologies and best practices.
+<br>
+## Connect with Me:
+If you have any openings or know of relevant positions in the DevOps field, I would love to connect with you on LinkedIn. Let's explore opportunities together and discuss how I can make a positive impact on your team.
+
+I'm excited about the possibilities that lie ahead and look forward to connecting with like-minded professionals like you!
+
+##
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Hashnode](https://img.shields.io/badge/-Hashnode-purple?style=for-the-badge&logo=hashnode)](https://hashnode.com/@nahid0002/) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/)
+
+
 - <strong>Reach out me----  </strong> nahidkishore99@gmail.com
 - Hashnode blog account -- https://hashnode.com/@nahid0002
 - Medium blog account--- https://medium.com/@nahidkishore99
