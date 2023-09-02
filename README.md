@@ -42,9 +42,9 @@ I'm excited about the possibilities that lie ahead and look forward to connectin
 <br/>
 
 ## I am experienced in the following Languages and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,linux,grafana,prometheus,git,gitlab,github,nginx,powershell,bash,vscode,postman&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,linux,grafana,prometheus,git,gitlab,github,githubactions,nginx,powershell,bash,vscode,postman&perline=10&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,c,py,mongodb,mysql,firebase,netlify,heroku,redux,bootstrap,tailwind,materialui&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,c,py,mongodb,mysql,firebase,netlify,heroku,redux,bootstrap,tailwind,materialui&perline=10&theme=dark)](https://skillicons.dev)
  
  
  <!--
