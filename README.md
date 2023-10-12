@@ -1,4 +1,5 @@
 ### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>a JavaScript Developer with a Passion for DevOps! </h1>
+## <h2> AWS Certified Solutions Architect - Associate </h2>
 DevOps enthusiast || AWS || Kubernetes || Docker || JS Developer  <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
@@ -9,6 +10,7 @@ DevOps enthusiast || AWS || Kubernetes || Docker || JS Developer  <br>
 About Me: <br>
 💼 Currently working as a JavaScript Developer at SEBPO. <br>
 🎓 Graduated in Computer Science and Engineering from East West University.
+
 
 ## Seeking New Opportunities in DevOps / Cloud:
 I am actively seeking a DevOps role and am excited to take on new challenges in this dynamic field. My journey as a JavaScript Developer has provided me with a strong foundation in software development, and I am now eager to apply my skills to drive efficient and scalable infrastructure solutions as a DevOps professional.
