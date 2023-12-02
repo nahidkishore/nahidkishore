@@ -1,6 +1,6 @@
 ### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>a JavaScript Developer with a Passion for DevOps! </h1>
 ## <h2> AWS Certified Solutions Architect - Associate </h2>
-DevOps enthusiast || AWS || Kubernetes || Docker ||  || Terraform || Python || JS Developer  <br>
+DevOps enthusiast || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD || JS Developer  <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Hashnode](https://img.shields.io/badge/-Hashnode-purple?style=for-the-badge&logo=hashnode)](https://hashnode.com/@nahid0002/) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/)
