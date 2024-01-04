@@ -1,5 +1,7 @@
 ### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>a JavaScript Developer with a Passion for DevOps! </h1>
-## <h2> AWS Certified Solutions Architect - Associate </h2>
+<h3 align="center">I'm committed to continual learning, improvement, and making impactful contributions.</h3>
+
+## <h1> AWS Certified Solutions Architect - Associate </h1>
 DevOps enthusiast || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD || JS Developer  <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
