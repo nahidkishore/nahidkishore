@@ -79,4 +79,6 @@ I'm excited about the possibilities that lie ahead and look forward to connectin
 ![Github](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
 [![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
 
+# Certifications:
+![image](https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3)
 
