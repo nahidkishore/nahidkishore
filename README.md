@@ -18,7 +18,7 @@ About Me: <br>
 I am actively seeking a DevOps role and am excited to take on new challenges in this dynamic field. My journey as a JavaScript Developer has provided me with a strong foundation in software development, and I am now eager to apply my skills to drive efficient and scalable infrastructure solutions as a DevOps professional.
 
 ##
-💻 Hands-on experience in AWS, Linux, Docker, Kubernetes (K8s),Terraform,Ansible, Grafana, Prometheus, CI/CD, Jenkins, Github Action, SonarQube, ArgoCD, Shell Scripting and DevOps practices. <br>
+💻 Hands-on experience in AWS, Linux, Docker, Kubernetes (K8s),Terraform, Ansible, Grafana, Prometheus, CI/CD, Jenkins, Github Action, SonarQube, ArgoCD, Shell Scripting, Python and DevOps practices. <br>
 🚀 Project involvement in driving efficient and scalable infrastructure solutions. <br>
 📚 A continuous learner, always exploring new technologies and best practices.
 <br>
@@ -29,12 +29,11 @@ I'm excited about the possibilities that lie ahead and look forward to connectin
 
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Hashnode](https://img.shields.io/badge/-Hashnode-purple?style=for-the-badge&logo=hashnode)](https://hashnode.com/@nahid0002/) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/)
 
 
 - Gmail: nahidkishore99@gmail.com
 - Linkedin: https://www.linkedin.com/in/nahid099/
-- Hashnode blog account: https://hashnode.com/@nahid0002
 - Medium blog account: https://medium.com/@nahidkishore99
 - Portfolio site: https://nahidul.netlify.app/
 
