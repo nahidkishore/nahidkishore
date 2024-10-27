@@ -14,9 +14,6 @@ About Me: <br>
 🎓 Graduated in Computer Science and Engineering from East West University.
 
 
-## Seeking New Opportunities in DevOps / Cloud:
-I am actively seeking a DevOps role and am excited to take on new challenges in this dynamic field. My journey as a JavaScript Developer has provided me with a strong foundation in software development, and I am now eager to apply my skills to drive efficient and scalable infrastructure solutions as a DevOps professional.
-
 ##
 💻 Hands-on experience in AWS, Linux, Docker, Kubernetes (K8s),Terraform, Ansible, Grafana, Prometheus, CI/CD, Jenkins, Github Action, SonarQube, ArgoCD, Shell Scripting, Python and DevOps practices. <br>
 🚀 Project involvement in driving efficient and scalable infrastructure solutions. <br>
