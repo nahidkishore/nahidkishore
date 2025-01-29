@@ -1,8 +1,10 @@
 ### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>a JavaScript Developer with a Passion for DevOps! </h1>
 <h3 align="center">I'm committed to continual learning, improvement, and making impactful contributions.</h3>
 
+## <h1> Certified Kubernetes Administrator </h1>
 ## <h1> AWS Certified Solutions Architect - Associate </h1>
-DevOps enthusiast || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD || JS Developer  <br>
+
+DevOps & DevSecOps  Enthusiast || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD || JS Developer  <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahidul.netlify.app/)
@@ -76,5 +78,7 @@ I'm excited about the possibilities that lie ahead and look forward to connectin
 [![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
 
 # Certifications:
+
+![Image](https://github.com/user-attachments/assets/62ed2789-a5e6-4459-8d9c-bc5573bbc0bf)
 ![image](https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3)
 
