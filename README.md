@@ -17,14 +17,14 @@ About Me: <br>
 
 
 ##
-💻 Hands-on experience in AWS, Linux, Docker, Kubernetes (K8s),Terraform, Ansible, Grafana, Prometheus, CI/CD, Jenkins, Github Action, SonarQube, ArgoCD, Shell Scripting, Python and DevOps practices. <br>
+💻 Hands-on experience in AWS, Linux, Docker, Kubernetes (K8s), Terraform, Ansible, Grafana, Prometheus, CI/CD, Jenkins, Github Action, SonarQube, ArgoCD, Shell Scripting, Python and DevOps practices. <br>
 🚀 Project involvement in driving efficient and scalable infrastructure solutions. <br>
 📚 A continuous learner, always exploring new technologies and best practices.
 <br>
 ## Connect with Me:
 If you have any openings or know of relevant positions in the DevOps field, I would love to connect with you on LinkedIn. Let's explore opportunities together and discuss how I can make a positive impact on your team.
 
-I'm excited about the possibilities that lie ahead and look forward to connecting with like-minded professionals like you!
+I'm excited about the possibilities and look forward to connecting with like-minded professionals like you!
 
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
@@ -32,7 +32,7 @@ I'm excited about the possibilities that lie ahead and look forward to connectin
 
 
 - Gmail: nahidkishore99@gmail.com
-- Linkedin: https://www.linkedin.com/in/nahid099/
+- LinkedIn: https://www.linkedin.com/in/nahid099/
 - Medium blog account: https://medium.com/@nahidkishore99
 - Portfolio site: https://nahidul.netlify.app/
 
@@ -64,11 +64,6 @@ I'm excited about the possibilities that lie ahead and look forward to connectin
 <br />
 <br/>
 <br/>
-
-[![nahidkishore's github contrubution](https://github-readme-streak-stats.herokuapp.com/?user=nahidkishore&show_icons=true&theme=synthwave)](https://github.com/nahidkishore)
-
-
-[![nahidkishore's github stats](https://github-readme-stats.vercel.app/api?username=nahidkishore&show_icons=true&theme=cobalt)](https://github.com/nahidkishore/github-readme-stats)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=30)](https://github.com/nahidkishore)
 
