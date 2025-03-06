@@ -65,7 +65,6 @@ I'm excited about the possibilities and look forward to connecting with like-min
 <br/>
 <br/>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nahidkishore/langs)](https://githubtrends.io)
 
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=30)](https://github.com/nahidkishore)
