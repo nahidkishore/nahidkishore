@@ -65,10 +65,7 @@ I'm excited about the possibilities and look forward to connecting with like-min
 <br/>
 <br/>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nahidkishore)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nahidkishore&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nahidkishore/langs)](https://githubtrends.io)
 
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=30)](https://github.com/nahidkishore)
