@@ -34,7 +34,7 @@ I'm excited about the possibilities and look forward to connecting with like-min
 - Gmail: nahidkishore99@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nahid099/
 - Medium blog account: https://medium.com/@nahidkishore99
-- Portfolio site: https://nahidul.netlify.app/
+- Portfolio site: https://nahid-devops.netlify.app/
 
 
 
