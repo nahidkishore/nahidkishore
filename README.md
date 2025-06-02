@@ -65,7 +65,10 @@ I'm excited about the possibilities and look forward to connecting with like-min
 <br/>
 <br/>
 
+# Certifications:
 
+![Image](https://github.com/user-attachments/assets/62ed2789-a5e6-4459-8d9c-bc5573bbc0bf)
+![image](https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=30)](https://github.com/nahidkishore)
 
@@ -74,8 +77,5 @@ I'm excited about the possibilities and look forward to connecting with like-min
 ![Github](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
 [![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
 
-# Certifications:
 
-![Image](https://github.com/user-attachments/assets/62ed2789-a5e6-4459-8d9c-bc5573bbc0bf)
-![image](https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3)
 
