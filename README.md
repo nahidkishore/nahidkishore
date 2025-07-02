@@ -1,10 +1,12 @@
-### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>a JavaScript Developer with a Passion for DevOps! </h1>
+### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>EC-Council Certified DevSecOps Engineer | Certified Kubernetes Administrator (CKA) | AWS Certified Solutions Architect - Associate | DevOps </h1>
 <h3 align="center">I'm committed to continual learning, improvement, and making impactful contributions.</h3>
 
-## <h1> Certified Kubernetes Administrator </h1>
-## <h1> AWS Certified Solutions Architect - Associate </h1>
+-  <h1> EC-Council Certified DevSecOps Engineer </h1>
+- <h1> Certified EC-Council Instructor </h1>
+- <h1> Certified Kubernetes Administrator (CKA) </h1>
+- <h1> AWS Certified Solutions Architect - Associate </h1>
 
-DevOps & DevSecOps  Enthusiast || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD || JS Developer  <br>
+DevOps & DevSecOps || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD || JS Developer  <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahid-devops.netlify.app/)
