@@ -1,83 +1,112 @@
-### <h1 align="center">👋 Hello, I'm Nahidul Islam,<br>EC-Council Certified DevSecOps Engineer | Certified Kubernetes Administrator (CKA) | AWS Certified Solutions Architect - Associate | DevOps </h1>
-<h3 align="center">I'm committed to continual learning, improvement, and making impactful contributions.</h3>
+<h1 align="center">👋 Hi there, I'm Nahidul Islam</h1>
 
--  <h1> EC-Council Certified DevSecOps Engineer </h1>
-- <h1> Certified EC-Council Instructor </h1>
-- <h1> Certified Kubernetes Administrator (CKA) </h1>
-- <h1> AWS Certified Solutions Architect - Associate </h1>
+<p align="center">
+  <strong>EC-Council Certified DevSecOps Engineer | Certified Kubernetes Administrator (CKA) | AWS Certified Solutions Architect - Associate | DevOps Professional</strong>
+</p>
 
-DevOps & DevSecOps || Linux || AWS || Kubernetes || Docker || Terraform || Python || CICD || JS Developer  <br>
+<p align="center">
+  <em>Committed to continual learning, innovation, and making impactful contributions.</em>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahid-devops.netlify.app/)
+---
 
-<br>
+## 🎯 About Me
 
-About Me: <br>
-💼 Currently working as a JavaScript Developer at SEBPO. <br>
-🎓 Graduated in Computer Science and Engineering from East West University.
+- 🛡 **EC-Council Certified DevSecOps Engineer**
+- 🎓 **Certified EC-Council Instructor**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🐳 **Certified Kubernetes Administrator (CKA)**
+- 💻 **Currently working as a JavaScript Developer at SEBPO**
+- 🎓 **Bachelor’s in Computer Science & Engineering, East West University**
 
+With hands-on experience across DevOps, Cloud, and Software Development, I design and implement scalable, secure, and efficient solutions. I am passionate about empowering teams to deliver faster and safer through modern engineering practices.
 
-##
-💻 Hands-on experience in AWS, Linux, Docker, Kubernetes (K8s), Terraform, Ansible, Grafana, Prometheus, CI/CD, Jenkins, Github Action, SonarQube, ArgoCD, Shell Scripting, Python and DevOps practices. <br>
-🚀 Project involvement in driving efficient and scalable infrastructure solutions. <br>
-📚 A continuous learner, always exploring new technologies and best practices.
-<br>
-## Connect with Me:
-If you have any openings or know of relevant positions in the DevOps field, I would love to connect with you on LinkedIn. Let's explore opportunities together and discuss how I can make a positive impact on your team.
+---
 
-I'm excited about the possibilities and look forward to connecting with like-minded professionals like you!
+## 🚀 Technical Expertise
 
-##
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid099/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:nahidkishore99@gmail.com) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nahidkishore99) [![Portfolio Site](https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge)](https://nahid-devops.netlify.app/)
+💡 **Cloud & DevOps:**
+- AWS | Kubernetes | Docker | Terraform | Ansible | Jenkins | ArgoCD | SonarQube
+- Linux Administration & Shell Scripting
+- Git, GitHub Actions, GitLab CI/CD
+- Infrastructure as Code (IaC)
 
+💡 **Monitoring & Observability:**
+- Prometheus | Grafana
 
-- Gmail: nahidkishore99@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nahid099/
-- Medium blog account: https://medium.com/@nahidkishore99
-- Portfolio site: https://nahid-devops.netlify.app/
+💡 **Development & Scripting:**
+- JavaScript (Node.js, React)
+- Python
+- C
 
+💡 **Tools & Platforms:**
+- NGINX | Postman | Netlify | Heroku | VS Code
 
+---
 
-<!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid099/) 
-[![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nahid.kishore/)
-[![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://nahidul.netlify.app/) -->
-<br/>
+## 🛠 Languages & Technologies
 
-## Experienced in following Languages and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,linux,grafana,prometheus,git,gitlab,github,githubactions,nginx,powershell,bash,vscode,postman&perline=10&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,c,py,mongodb,mysql,firebase,netlify,heroku,redux,bootstrap,tailwind,materialui&perline=10&theme=dark)](https://skillicons.dev)
- 
- 
- <!--
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,aws,docker,kubernetes,git,ansible,jenkins,redux,tailwind,materialui,mongodb,mysql &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,linux,grafana,prometheus,git,github,gitlab,githubactions,nginx,bash,powershell,vscode,postman&perline=9&theme=dark" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,firebase,git,vscode,powershell,bash,postman,netlify,heroku,gitlab,nginx," />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,py,c,mongodb,mysql,firebase,netlify,heroku,redux,bootstrap,tailwind,materialui&perline=9&theme=dark" />
   </a>
 </p>
--->
-<br />
-<br/>
-<br/>
 
-# Certifications:
+---
 
-![Image](https://github.com/user-attachments/assets/62ed2789-a5e6-4459-8d9c-bc5573bbc0bf)
-![image](https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3)
+## 🧩 Certifications
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=30)](https://github.com/nahidkishore)
+- **EC-Council Certified DevSecOps Engineer**
+- **Certified EC-Council Instructor**
+- **AWS Certified Solutions Architect – Associate**
+- **Certified Kubernetes Administrator (CKA)**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62ed2789-a5e6-4459-8d9c-bc5573bbc0bf" alt="Certification Badge" height="120"/>
+  <img src="https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3" alt="Certification Badge" height="120"/>
+</p>
 
+---
 
-![Github](https://visitor-badge.laobi.icu/badge?page_id=nahidkishore)
-[![Github](https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social)](https://github.com/nahidkishore)
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidkishore&card_width=550&show_icons=true&theme=radical&layout=compact&langs_count=10" alt="Top Languages"/>
+</p>
 
+---
 
+## 🤝 Let’s Connect
+
+I’m always open to networking, mentorship, and collaborating on exciting projects. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahid099/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nahidkishore99@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://medium.com/@nahidkishore99">
+    <img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium" alt="Medium"/>
+  </a>
+  <a href="https://nahid-devops.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nahidkishore" alt="Visitor Badge"/>
+  <a href="https://github.com/nahidkishore">
+    <img src="https://img.shields.io/github/followers/nahidkishore?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
+
+---
+
+⭐ **Always learning. Always improving. Always ready to help build something impactful.**
