@@ -32,7 +32,7 @@ With hands-on experience across DevOps, Cloud, and Software Development, I desig
 - Infrastructure as Code (IaC)
 
 💡 **Monitoring & Observability:**
-- Prometheus | Grafana
+- Prometheus | Grafana | ELK | EFK
 
 💡 **Development & Scripting:**
 - JavaScript (Node.js, React)
@@ -99,6 +99,11 @@ I’m always open to networking, mentorship, and collaborating on exciting proje
     <img src="https://img.shields.io/badge/-Portfolio%20Site-green?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
+
+- Gmail: nahidkishore99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nahid099/
+- Medium blog account: https://medium.com/@nahidkishore99
+- Portfolio site: https://nahid-devops.netlify.app/
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nahidkishore" alt="Visitor Badge"/>
