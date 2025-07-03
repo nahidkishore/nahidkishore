@@ -26,18 +26,16 @@ With hands-on experience across DevOps, Cloud, and Software Development, I desig
 ## 🚀 Technical Expertise
 
 💡 **Cloud & DevOps:**
-- AWS | Kubernetes | Docker | Terraform | Ansible | Jenkins | ArgoCD | SonarQube
+- AWS | Kubernetes | Docker | Terraform | Ansible | CI/CD | ArgoCD | SonarQube
 - Linux Administration & Shell Scripting
-- Git, GitHub Actions, GitLab CI/CD
+- Git, Jenkins, GitHub Actions, GitLab CI/CD
 - Infrastructure as Code (IaC)
 
 💡 **Monitoring & Observability:**
 - Prometheus | Grafana | ELK | EFK
 
 💡 **Development & Scripting:**
-- JavaScript (Node.js, React)
-- Python
-- C
+- JavaScript (Node.js, React), Python, C, Databases (MySQL, PostgreSQL, MongoDB, AWS RDS)
 
 💡 **Tools & Platforms:**
 - NGINX | Postman | Netlify | Heroku | VS Code
