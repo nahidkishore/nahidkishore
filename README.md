@@ -65,8 +65,8 @@ With hands-on experience across DevOps, Cloud, and Software Development, I desig
 - **Certified Kubernetes Administrator (CKA)**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62ed2789-a5e6-4459-8d9c-bc5573bbc0bf" alt="Certification Badge" height="120"/>
-  <img src="https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3" alt="Certification Badge" height="120"/>
+  <img src="https://github.com/user-attachments/assets/62ed2789-a5e6-4459-8d9c-bc5573bbc0bf" alt="Certification Badge" width="420" height="300"/>
+  <img src="https://github.com/nahidkishore/nahidkishore/assets/39863835/c25f8816-dceb-4498-9f31-7d14dc42c0e3" alt="Certification Badge" width="420" height="300"/>
 </p>
 
 ---
